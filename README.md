@@ -1,5 +1,7 @@
 This was my final project of the CS-330 “Computer Graphic and Visualization” course.
 
+Note that this project requires external dependencies which are too large to upload to github; as such, you will not be able to run this program.
+
 In this course we used OpenGL to learn some concepts involving 3d graphics. The readings from this course were from the website https://learnopengl.com/ . 
 
 We were given a starter code which, when executed, would run a program whose environment is similar to a 3d video game. The environment featured two orthogonal square planes on which there were several 3d objects which were shaped, textured, and lit in order to produce the effect of a set table with plates, utensils, grapes, bread, and a wheel of cheese. I would approximate the graphical detail to be similar in quality as was found in Bethesda’s “The elder scrolls: Oblivion”.
